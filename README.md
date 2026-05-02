@@ -1,5 +1,7 @@
 # Archived Project (Deprecated)
 
+## Look for the repo named Chinmoysh-web for the new and fully-developped project
+
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
