@@ -1,6 +1,5 @@
-# Chinmoy Build Develop
+# Archived Project (Deprecated)
 
-[![CI](https://github.com/Chinmoy-sh/Chinmoy-Build-Develop/actions/workflows/ci.yml/badge.svg)](https://github.com/Chinmoy-sh/Chinmoy-Build-Develop/actions/workflows/ci.yml)
 
 A modern, responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
@@ -25,33 +24,6 @@ You can run the site locally with any static server.
 - Tailwind CSS (CDN)
 - Three.js (CDN)
 
-## Getting Started
-
-### 1. Clone
-
-```bash
-git clone https://github.com/Chinmoy-sh/Chinmoy-Build-Develop.git
-cd Chinmoy-Build-Develop
-```
-
-### 2. Install tooling
-
-```bash
-npm install
-```
-
-### 3. Run locally
-
-```bash
-npm run start
-```
-
-## Available Scripts
-
-- `npm run start`: serve the site locally
-- `npm run lint`: run HTML, CSS, and JavaScript lint checks
-- `npm run format`: format supported files with Prettier
-- `npm run format:check`: verify formatting without changing files
 
 ## Repository Structure
 
@@ -82,10 +54,6 @@ This project includes:
 ## Contributing
 
 Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
-
-## Security
-
-Please review [SECURITY.md](SECURITY.md) for reporting security issues.
 
 ## License
 
